@@ -446,14 +446,14 @@ var zimstake = require('zimstake')({
 })
 
 zimstake.set('pass', 'somn')
-zimstake.set({port:22555})
+zimstake.set({port:12126})
 
 ```
 
 Available options and default values:
 
 + host *localhost*
-+ port *22555*
++ port *12126*
 + user
 + pass
 + passphrasecallback
