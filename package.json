@@ -1,0 +1,13 @@
+{
+    "name": "node-zimstake",
+    "version": "0.3.9",
+    "description": "Zimstake client",
+    "keywords": ["zimstake"],
+    "repository": "git://github.com/CryptoGir/node-zimstake.git",
+    "author": "CryptoGir",
+    "main": "lib/zimstake.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
